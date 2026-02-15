@@ -1,0 +1,12 @@
+{
+  "name": "pagelove",
+  "description": "Skills for building apps on the Pagelove platform — where HTML files are databases and DOM elements have HTTP methods",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alistair Croll"
+  },
+  "homepage": "https://github.com/alistaircroll/pagelove",
+  "repository": "https://github.com/alistaircroll/pagelove",
+  "license": "MIT",
+  "keywords": ["pagelove", "html", "webdav", "dom", "http-methods", "web-apps"]
+}

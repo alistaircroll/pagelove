@@ -1,0 +1,13 @@
+# Legacy files — not part of the skills framework
+Site backup*/
+generate_scepter.py
+generate_scepter.py.bak
+*.bak
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp

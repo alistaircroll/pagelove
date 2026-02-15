@@ -1,0 +1,9 @@
+{
+  "hooks": [
+    {
+      "event": "session_start",
+      "command": "./hooks/session-start.sh",
+      "description": "Load the root Pagelove skill into context at the start of each session"
+    }
+  ]
+}
