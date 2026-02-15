@@ -38,10 +38,6 @@ git clone https://github.com/alistaircroll/pagelove.git
 | **multi-file-data** | Multiple HTML files as relational tables — foreign keys, cross-file reads, shape constraints |
 | **development-patterns** | DOM-as-state, polling, debugging, state machines, "Instead of X, Do Y" rules |
 
-## Live Demo
-
-See these skills in action at [preview-alistair.pagelove.cloud](https://preview-alistair.pagelove.cloud/) — a lab of 15+ apps built entirely on Pagelove, from multiplayer games to a CRM.
-
 ## License
 
 MIT
