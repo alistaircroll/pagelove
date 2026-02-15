@@ -8,5 +8,5 @@
   "homepage": "https://github.com/alistaircroll/pagelove",
   "repository": "https://github.com/alistaircroll/pagelove",
   "license": "MIT",
-  "keywords": ["pagelove", "html", "webdav", "dom", "http-methods", "web-apps"]
+  "keywords": ["pagelove", "html", "dom", "http-methods", "web-apps"]
 }
